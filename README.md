@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm: A full-stack dev who likes seeing things go live<br>I'm into: Building real products and figuring things out along the way<br>I'm currently learning: DevOps, Docker, CI/CD, and Nginx (aka how to get my code off localhost)<br>I love: Taking a half-baked idea and turning it into something people can actually use<br>I'm working on: Web and mobile apps, plus a few side projects that may or may not ever be finished<br>Fun fact: I started out collecting technologies like Pokémon. Now I'd rather ship one real thing than learn ten new frameworks<br>My goal: Build and deploy complete products, from first commit to production<br>When I'm not coding: Reading, learning random stuff, and tinkering with personal projects
+I'm: A full-stack dev who likes seeing things go live<br>I'm into: Building real products and figuring things out along the way<br>I'm currently learning: DevOps, Docker, CI/CD, and Nginx (aka how to get my code off localhost)<br>I love: Taking a half-baked idea and turning it into something people can actually use<br>I'm working on: Web and mobile apps, plus a few side projects that may or may not ever be finished
 
 
 ## 🌐 Socials:
