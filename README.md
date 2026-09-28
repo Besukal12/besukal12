@@ -14,11 +14,6 @@ I'm: A full-stack dev who likes seeing things go live<br>I'm into: Building real
   <img alt="github-snake" src="https://raw.githubusercontent.com/besukal12/besukal12/output/github-snake.svg" />
 </picture>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=besukal12&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=besukal12&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=besukal12&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=besukal12&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
